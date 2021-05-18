@@ -1,0 +1,41 @@
+import turtle
+turtle.home()
+turtle.shape('turtle')
+turtle.pencolor('red')
+turtle.pensize(10)
+turtle.forward(200)
+turtle.left(50)
+turtle.shape('turtle')
+turtle.pencolor('blue')
+turtle.forward(200)
+turtle.left(40)
+turtle.shape('turtle')
+turtle.pencolor('pink')
+
+#LETRA D
+turtle.forward(200)
+turtle.left(50)
+turtle.shape('turtle')
+turtle.pencolor('purple')
+turtle.forward(200)
+turtle.left(40)
+turtle.shape('turtle')
+turtle.pencolor('black')
+turtle.forward(180)
+turtle.left(90)
+turtle.shape('turtle')
+turtle.pencolor('green')
+turtle.forward(480)
+turtle.left(90)
+
+#ESPACIO
+turtle.up()
+turtle.goto(500,0)
+turtle.down()
+
+#LETRA I
+turtle.left(90)
+turtle.forward(300)
+turtle.up()
+turtle.goto(500,-200)
+turtle.down()
