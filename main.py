@@ -1,6 +1,7 @@
 import turtle
 
 #LETRA D
+turtle.shape('turtle')
 turtle.up()
 turtle.goto(-800,0)
 turtle.down()
@@ -22,15 +23,14 @@ turtle.pencolor('purple')
 turtle.forward(200)
 turtle.left(40)
 turtle.shape('turtle')
-turtle.pencolor('black')
+turtle.pencolor('silver')
 turtle.forward(180)
 turtle.left(90)
 turtle.shape('turtle')
 turtle.pencolor('green')
 turtle.forward(480)
 turtle.left(90)
-"""
-"""
+
 #ESPACIO
 turtle.up()
 turtle.goto(-300,0)
@@ -93,7 +93,41 @@ turtle.down()
 turtle.shape('turtle')
 turtle.pencolor('yellow')
 turtle.forward(200)
+turtle.left(60)
+turtle.shape('turtle')
+turtle.pencolor('Violet')
+turtle.forward(200)
+turtle.left(90)
+turtle.shape('turtle')
+turtle.pencolor('Brown')
+turtle.forward(500)
+turtle.left(50)
+turtle.shape('turtle')
+turtle.pencolor('Grey')
+turtle.forward(210)
+turtle.left(90)
+turtle.shape('turtle')
+turtle.pencolor('Navy')
+turtle.forward(210)
+turtle.left(90)
+turtle.shape('turtle')
+turtle.pencolor('red')
+turtle.forward(210)
+turtle.left(90)
+turtle.shape('turtle')
+turtle.pencolor('orange')
+turtle.forward(210)
+turtle.left(-140)
+turtle.up()
+turtle.forward(250)
+turtle.left(90)
+turtle.down()
 
 
+#ESPACIO
+turtle.up()
+turtle.goto(750,0)
+turtle.down()
 
+#LETRA O
 
