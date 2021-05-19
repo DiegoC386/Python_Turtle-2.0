@@ -126,8 +126,12 @@ turtle.down()
 
 #ESPACIO
 turtle.up()
-turtle.goto(750,0)
+turtle.goto(850,0)
 turtle.down()
 
 #LETRA O
 
+turtle.shape('turtle')
+turtle.pencolor('silver')
+turtle.forward(200)
+turtle.left(45)
