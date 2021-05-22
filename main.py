@@ -377,8 +377,3 @@ turtle.left(-45)
 turtle.forward(180)
 turtle.left(90)
 
-#ESPACIO
-turtle.up()
-turtle.goto(1050,-750)
-turtle.dot(15,'blue')
-turtle.down()
