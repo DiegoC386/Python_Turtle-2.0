@@ -1,5 +1,7 @@
+
 import turtle
 
+turtle.Screen().bgcolor("orange")
 #LETRA D
 turtle.shape('turtle')
 turtle.up()
@@ -67,7 +69,7 @@ turtle.left(-90)
 turtle.forward(250)
 turtle.left(290)
 turtle.shape('turtle')
-turtle.pencolor('orange')
+turtle.pencolor('silver')
 turtle.forward(220)
 turtle.left(270)
 turtle.shape('turtle')
@@ -115,7 +117,7 @@ turtle.pencolor('red')
 turtle.forward(210)
 turtle.left(90)
 turtle.shape('turtle')
-turtle.pencolor('orange')
+turtle.pencolor('black')
 turtle.forward(210)
 turtle.left(-140)
 turtle.up()
@@ -123,20 +125,18 @@ turtle.forward(250)
 turtle.left(90)
 turtle.down()
 
-
 #ESPACIO
 turtle.up()
 turtle.goto(875,100)
 turtle.down()
 
 #LETRA O
-
 turtle.shape('turtle')
 turtle.pencolor('silver')
 turtle.left(45)
 turtle.forward(200)
 turtle.shape('turtle')
-turtle.pencolor('orange')
+turtle.pencolor('pink')
 turtle.left(90)
 turtle.forward(200)
 turtle.shape('turtle')
@@ -148,3 +148,81 @@ turtle.pencolor('green')
 turtle.left(90)
 turtle.forward(200)
 turtle.left(45)
+
+#ESPACIO
+turtle.up()
+turtle.goto(-600,-275)
+turtle.down()
+
+#LETRA C
+turtle.shape('turtle')
+turtle.pencolor('green')
+turtle.backward(200)
+turtle.left(225)
+turtle.shape('turtle')
+turtle.pencolor('pink')
+turtle.forward(200)
+turtle.left(45)
+turtle.shape('turtle')
+turtle.pencolor('red')
+turtle.forward(200)
+turtle.left(45)
+turtle.shape('turtle')
+turtle.pencolor('magenta')
+turtle.forward(200)
+turtle.left(45)
+turtle.shape('turtle')
+turtle.pencolor('cyan')
+turtle.forward(200)
+
+#ESPACIO
+turtle.up()
+turtle.goto(-500,-750)
+turtle.down()
+
+#LETRA A
+
+turtle.shape('turtle')
+turtle.pencolor('blue')
+turtle.circle(100)
+turtle.up()
+turtle.circle(100,90)
+turtle.down()
+turtle.shape('turtle')
+turtle.pencolor('pink')
+turtle.up()
+turtle.goto(-400,-750)
+turtle.down()
+turtle.forward(250)
+turtle.left(90)
+turtle.forward(200)
+turtle.left(180)
+turtle.up()
+turtle.goto(-400,-750)
+turtle.down()
+
+#ESPACIO
+turtle.up()
+turtle.goto(-300,-750)
+turtle.down()
+
+#LETRA L
+
+turtle.shape('turtle')
+turtle.pencolor('Brown')
+turtle.left(90)
+turtle.forward(500)
+turtle.up()
+turtle.goto(-300,-750)
+turtle.down()
+
+#ESPACIO
+turtle.up()
+turtle.goto(-50,-600)
+turtle.down()
+
+#LETRA D
+turtle.shape('turtle')
+turtle.pencolor('red')
+turtle.circle(100)
+
