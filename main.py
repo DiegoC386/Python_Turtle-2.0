@@ -2,8 +2,9 @@
 import turtle
 
 turtle.Screen().bgcolor("orange")
-turtle.speed(4)
+turtle.speed(6)
 #LETRA D
+turtle.speed(6)
 turtle.shape('turtle')
 turtle.up()
 turtle.goto(-800,0)
@@ -40,6 +41,7 @@ turtle.goto(-300,0)
 turtle.down()
 
 #LETRA I
+turtle.speed()
 turtle.left(90)
 turtle.forward(300)
 turtle.up()
@@ -339,9 +341,11 @@ turtle.left(90)
 turtle.forward(125)
 turtle.left(90)
 turtle.forward(50)
-turtle.left(90)
-turtle.up()
-turtle.forward(-350)
+turtle.left(315)
+tturtle.up()
+turtle.forward(350)
 turtle.down()
 
-#LETRA N 
+#ESPACIO
+
+
